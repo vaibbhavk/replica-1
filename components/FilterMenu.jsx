@@ -25,10 +25,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Posting Title
             </label>
           </div>
@@ -39,10 +36,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Application Status
             </label>
           </div>
@@ -56,10 +50,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Todos
             </label>
           </div>
@@ -70,10 +61,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Notes
             </label>
           </div>
@@ -84,10 +72,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Attachment Category
             </label>
           </div>
@@ -98,10 +83,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Rating
             </label>
           </div>
@@ -112,10 +94,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Last Name
             </label>
           </div>
@@ -126,10 +105,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Hiring Pipeline
             </label>
           </div>
@@ -140,10 +116,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Application ID
             </label>
           </div>
@@ -154,10 +127,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Account Manager
             </label>
           </div>
@@ -168,10 +138,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Application Owner
             </label>
           </div>
@@ -182,10 +149,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Application Source
             </label>
           </div>
@@ -196,10 +160,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Assigned Recruiter(s)
             </label>
           </div>
@@ -210,10 +171,7 @@ const FilterMenu = () => {
               value=""
               id="flexCheckDefault"
             />
-            <label
-              className="form-check-label inline-block text-gray-800"
-              for="flexCheckDefault"
-            >
+            <label className="form-check-label inline-block text-gray-800">
               Associated Tags
             </label>
           </div>
